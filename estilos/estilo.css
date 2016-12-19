@@ -1,0 +1,179 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+	
+	}
+	
+	
+	body{
+		
+font-family:  sans-serif;
+font-size:1em;		
+height:auto;
+	
+		}
+		
+		
+		#geral{
+	
+		margin:0 auto;	
+
+	        padding-left:0px;
+ 			padding-top:0px;
+		    width:100%;
+			background:#000;
+
+
+			}
+		
+			
+			
+				
+				#logo{
+					margin:0 auto;
+                width:325px;
+  			    height:126px;
+			    background-image:url(../images/MaxNote.jpg);
+				background-size:cover;
+				background-repeat:no-repeat;
+				
+				}	
+
+#form{
+	
+				margin:0 auto;
+				
+	
+                width:550px;
+  			    height:250px;
+
+		           padding-top:20px;		
+	
+	
+}			
+
+#form #formInternoEmail	
+{
+	
+width:550px;	
+height:40px;
+padding:10px;
+
+
+
+}
+
+#form #formInternoEmail	 #lateralEmail 
+{
+background:#28b779;
+
+width:50px;
+height:30px;
+color: #fff;
+float:left;
+
+text-align:center;
+
+padding:4px 4px;
+margin-right:10px;
+
+border-right-style:solid;
+border-width:5px;
+
+display: inline-block;
+
+padding-top:10px;
+margin-top:5px;
+	
+}
+#form #formInternoEmail	 #txtEmail
+{
+background:#fff;
+width:440px;
+height:38px;
+float:left;
+
+margin-top:5px;	
+}
+
+
+#form #formInternoPhone
+{
+	
+width:550px;	
+height:40px;
+padding:10px;
+
+
+}
+
+
+#form #formInternoPhone #lateralPhone
+{
+background:#28b779;
+
+width:50px;
+height:30px;
+color: #fff;
+
+float:left;
+
+text-align:center;
+margin-right:10px;
+padding:4px 4px;	
+
+
+border-right-style:solid;
+border-width:5px;
+
+
+padding-top:10px;
+margin-top:5px;
+}
+
+#form #formInternoPhone #txtPhone
+{
+background:#fff;
+width:440px;
+height:38px;
+float:left;
+margin-top:5px;
+	
+}
+
+#form #formInternoButton		
+{
+	
+	
+	width:550px;
+	height:40px;
+	text-align:center;	
+}
+
+
+#form  #formInternoButton #btentrar
+{
+	
+	
+	
+background:#2f96b4;
+width:80px;
+height:40px;
+color:#fff;
+font-weight:bold;
+
+margin-top:30px;
+
+border-style:none;
+
+	
+	
+}
+		
+
+
+
+				
