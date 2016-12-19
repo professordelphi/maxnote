@@ -34,8 +34,8 @@ height:auto;
 				
 				#logo{
 					margin:0 auto;
-                width:325px;
-  			    height:126px;
+                width:1200px;
+  			    height:400px;
 			    background-image:url(../images/MaxNote.jpg);
 				background-size:cover;
 				background-repeat:no-repeat;
@@ -71,19 +71,20 @@ padding:10px;
 background:#28b779;
 
 width:50px;
-height:30px;
+height:28px;
 color: #fff;
 float:left;
 
 text-align:center;
 
 padding:4px 4px;
-margin-right:10px;
+margin-right:3px;
 
 border-right-style:solid;
 border-width:5px;
+border-color:#ccc;
 
-display: inline-block;
+
 
 padding-top:10px;
 margin-top:5px;
@@ -116,18 +117,19 @@ padding:10px;
 background:#28b779;
 
 width:50px;
-height:30px;
+height:28px;
 color: #fff;
-
 float:left;
 
 text-align:center;
-margin-right:10px;
-padding:4px 4px;	
 
+padding:4px 4px;
+margin-right:3px;
 
 border-right-style:solid;
 border-width:5px;
+border-color:#ccc;
+
 
 
 padding-top:10px;
