@@ -50,17 +50,17 @@ echo "
 			 <div id='formInterno'> 
 			
 
-                    <div id='formInternoCampo'> 
+                   				 <div id='formInternoCampo'> 
 			
 <div  id='lateral'>░  ▒ </div> <!--alt+176 e alt + 177 -->
-<input type='email' name='email' size='50' placeholder='  Email' id='txtEmail' />
+<input type='email' name='email' size='50' placeholder='  Email' id='txt' />
 
 					</div>
 
 					<div id='formInternoCampo'> 
 					
 <div id='lateral'>░  ▒ </div> <!--alt+176 e alt + 177 -->
-<input type='phone' name='phone'    size='50' placeholder='  Telefone' id='txtPhone' />
+<input type='phone' name='phone'    size='50' placeholder='  Telefone' id='txt' />
 
 					</div>
 					
