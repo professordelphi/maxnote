@@ -55,7 +55,7 @@ height:auto;
 	
 }			
 
-#form #formInternoEmail	
+#form #formInternoCampo
 {
 	
 width:550px;	
@@ -66,7 +66,7 @@ padding:10px;
 
 }
 
-#form #formInternoEmail	 #lateralEmail 
+#form #formInternoCampo	 #lateralEmail 
 {
 background:#28b779;
 
@@ -90,7 +90,7 @@ padding-top:10px;
 margin-top:5px;
 	
 }
-#form #formInternoEmail	 #txtEmail
+#form #formInternoCampo	 #txtEmail
 {
 background:#fff;
 width:440px;
@@ -100,7 +100,7 @@ float:left;
 margin-top:5px;	
 }
 
-
+/*
 #form #formInternoPhone
 {
 	
@@ -110,9 +110,9 @@ padding:10px;
 
 
 }
+*/
 
-
-#form #formInternoPhone #lateralPhone
+#form #formInternoCampo #lateralPhone
 {
 background:#28b779;
 
@@ -136,7 +136,7 @@ padding-top:10px;
 margin-top:5px;
 }
 
-#form #formInternoPhone #txtPhone
+#form #formInternoCampo #txtPhone
 {
 background:#fff;
 width:440px;

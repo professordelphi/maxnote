@@ -1,5 +1,5 @@
 ﻿<?php
-include("c_tela.php");
+include("c_telalogin.php");
 
 $objeto = new Tela;
 $objeto -> fillTitle("MAXNOTE");
