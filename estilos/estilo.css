@@ -55,7 +55,7 @@ height:auto;
 	
 }			
 
-#form #formInternoEmail	
+#form #formInternoCampo
 {
 	
 width:550px;	
@@ -66,7 +66,7 @@ padding:10px;
 
 }
 
-#form #formInternoEmail	 #lateralEmail 
+#form #formInternoCampo	 #lateral
 {
 background:#28b779;
 
@@ -90,7 +90,7 @@ padding-top:10px;
 margin-top:5px;
 	
 }
-#form #formInternoEmail	 #txtEmail
+#form #formInternoCampo	 #txtEmail
 {
 background:#fff;
 width:440px;
@@ -101,42 +101,9 @@ margin-top:5px;
 }
 
 
-#form #formInternoPhone
-{
-	
-width:550px;	
-height:40px;
-padding:10px;
 
 
-}
-
-
-#form #formInternoPhone #lateralPhone
-{
-background:#28b779;
-
-width:50px;
-height:28px;
-color: #fff;
-float:left;
-
-text-align:center;
-
-padding:4px 4px;
-margin-right:3px;
-
-border-right-style:solid;
-border-width:5px;
-border-color:#ccc;
-
-
-
-padding-top:10px;
-margin-top:5px;
-}
-
-#form #formInternoPhone #txtPhone
+#form #formInternoCampo #txtPhone
 {
 background:#fff;
 width:440px;

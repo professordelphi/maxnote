@@ -16,7 +16,7 @@ function fillTitle($title)
 					<head>
 						<title>$title</title>
 					
-						<link href='estilos/estiloBack.css' rel='stylesheet' type='text/css' >
+						<link href='estilos/estilo.css' rel='stylesheet' type='text/css' >
 					
 						
 					</head> 
@@ -52,14 +52,14 @@ echo "
 
                     <div id='formInternoCampo'> 
 			
-<div  id='lateralEmail'>░  ▒ </div> <!--alt+176 e alt + 177 -->
+<div  id='lateral'>░  ▒ </div> <!--alt+176 e alt + 177 -->
 <input type='email' name='email' size='50' placeholder='  Email' id='txtEmail' />
 
 					</div>
 
 					<div id='formInternoCampo'> 
 					
-<div id='lateralPhone'>░  ▒ </div> <!--alt+176 e alt + 177 -->
+<div id='lateral'>░  ▒ </div> <!--alt+176 e alt + 177 -->
 <input type='phone' name='phone'    size='50' placeholder='  Telefone' id='txtPhone' />
 
 					</div>
